@@ -8,12 +8,12 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: narendhiran's
+description: hustles, stories and gospels
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: assets/images/armchair.png
+logo_dark: assets/images/armchair-b.png
+favicon: assets/images/armchair-b.png
 production_url: https://narendhiran.github.io
 source_url: https://github.com//Narendhiran/narendhiran.github.io/
 
@@ -30,7 +30,7 @@ disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-107136559-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
